@@ -1,0 +1,23 @@
+\documentclass[../../main.tex]{subfiles}
+\begin{document}
+
+\subsection*{3.9}
+Dimostrare che la funzione $V(x, y) = ax^2+bxy-ay^2$ con a e b costanti può rappresentare una funzione potenziale.
+\\Determinare il campo elettrostatico e la densità di carica $\rho(x,y)$.
+\subsubsection*{Formule utilizzate}
+\subsubsection*{Soluzione punto a}
+Il campo si calcola mediante la relazione $E = -\nabla v$
+\\$E_x = -\frac{\delta v}{\delta x} = -(2ax+by)$
+\\$E_y = -\frac{\delta v}{\delta y} = -(bx-2ay)$
+\\$E_z = -\frac{\delta v}{\delta z} = 0$
+\\Il campo così calcolato rappresenta effettivamente un campo elettrostatico infatti soddisfa la relazione: $rot\vec{E} = \nabla \wedge  E = 0$.
+\\$\frac{\delta E_z}{\delta y} - \frac{\delta E_y}{\delta z} = 0$
+\\$\frac{\delta E_x}{\delta z} - \frac{\delta E_z}{\delta x} = 0$
+\\$\frac{\delta E_y}{\delta x} - \frac{\delta E_x}{\delta y} = 0$
+\\La densità di carica si calcola mediante il teorema di Gauss in locale $div\vec{E} = \nabla \vec{E} = \frac{\rho}{\epsilon_0}$.
+\\$\frac{\delta E_x}{\delta x}+\frac{\delta E_y}{\delta y}+\frac{\delta E_z}{\delta z} = \frac{\rho}{\epsilon_0}$
+\\$\rho = \epsilon_0\left(\frac{\delta E_x}{\delta x} + \frac{\delta E_y}{\delta y} + \frac{\delta E_z}{\delta z}\right) = \epsilon_0\left(-2a+2a\right) = 0$
+\subsubsection*{Soluzione punto b}
+\newpage
+
+\end{document}
