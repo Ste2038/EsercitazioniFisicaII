@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1670176490 "/home/stefano/Documents/Uni/Fisica II/Esercizi/sections/e_8_8/e_8_8.tex" "sections/e_8_8/e_8_8.pdf" "e_8_8" 1670176490
+["pdflatex"] 1670318557 "/home/stefano/Documents/Uni/Fisica II/Esercizi/sections/e_8_8/e_8_8.tex" "sections/e_8_8/e_8_8.pdf" "e_8_8" 1670318558
   "/etc/texmf/web2c/texmf.cnf" 1668951421 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/stefano/Documents/Uni/Fisica II/Esercizi/sections/e_8_8/e_8_8.tex" 1670176490 565 8b11ec66e6e8b80e2758bf3165ba3a86 ""
+  "/home/stefano/Documents/Uni/Fisica II/Esercizi/sections/e_8_8/e_8_8.tex" 1670318556 1326 787b02aaa3347a5ab711c311b589e930 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -17,9 +17,11 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1248133631 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -46,9 +48,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669200476 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1669200483 1405658 c97e61511c7008b3d05e7cd5f245292f ""
+  "sections/e_8_8/../.././images//e_8_8_0.png" 1669912704 11881 085acdd579fd7388dc7100a4e6ed424d ""
+  "sections/e_8_8/../.././images//e_8_8_1.png" 1669912725 16524 ae7662ce0f5b7322eb2d2dbef8bed88d ""
   "sections/e_8_8/../../main.tex" 1670176288 2450 7a061a05ed5050d931e54391f06b8975 ""
-  "sections/e_8_8/e_8_8.aux" 1670176490 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "sections/e_8_8/e_8_8.tex" 1670176490 565 8b11ec66e6e8b80e2758bf3165ba3a86 ""
+  "sections/e_8_8/e_8_8.aux" 1670318557 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "sections/e_8_8/e_8_8.tex" 1670318556 1326 787b02aaa3347a5ab711c311b589e930 ""
   (generated)
   "sections/e_8_8/e_8_8.aux"
   "sections/e_8_8/e_8_8.log"
