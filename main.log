@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.23)  4 DEC 2022 18:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.23)  16 DEC 2022 18:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -105,20 +105,20 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count272
@@ -408,33 +408,153 @@ Package pdftex.def Info: ./images//e_8_4_1.png  used on input line 9.
 <./images//e_8_6.png, id=195, 643.40375pt x 328.22626pt>
 File: ./images//e_8_6.png Graphic file (type png)
 <use ./images//e_8_6.png>
-Package pdftex.def Info: ./images//e_8_6.png  used on input line 7.
+Package pdftex.def Info: ./images//e_8_6.png  used on input line 8.
 (pdftex.def)             Requested size: 193.02261pt x 98.46863pt.
- [39 <./images//e_8_6.png>]) (./sections/e_8_7/e_8_7.tex
-<./images//e_8_7_0.png, id=200, 390.45876pt x 241.90375pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--25
+
+ []
+
+[39 <./images//e_8_6.png>] [40]) (./sections/e_8_7/e_8_7.tex
+<./images//e_8_7_0.png, id=203, 390.45876pt x 241.90375pt>
 File: ./images//e_8_7_0.png Graphic file (type png)
 <use ./images//e_8_7_0.png>
 Package pdftex.def Info: ./images//e_8_7_0.png  used on input line 8.
 (pdftex.def)             Requested size: 117.13852pt x 72.57167pt.
-<./images//e_8_7_1.png, id=201, 261.97874pt x 280.04625pt>
+<./images//e_8_7_1.png, id=204, 261.97874pt x 280.04625pt>
 File: ./images//e_8_7_1.png Graphic file (type png)
 <use ./images//e_8_7_1.png>
 Package pdftex.def Info: ./images//e_8_7_1.png  used on input line 9.
 (pdftex.def)             Requested size: 78.59422pt x 84.01451pt.
- [40 <./images//e_8_7_0.png> <./images//e_8_7_1.png>] [41]) (./sections/e_8_8/e_8_8.tex [42]) (./sections/e_8_10/e_8_10.tex [43]) (./sections/e_8_11/e_8_11.tex [44]) (./sections/e_8_12/e_8_12.tex [45]) (./sections/e_10_1/e_10_1.tex [46]) (./sections/e_10_2/e_10_2.tex [47]) (./sections/e_10_4/e_10_4.tex [48]) (./sections/e_10_6/e_10_6.tex [49]) (./sections/e_10_7/e_10_7.tex [50]) (./sections/e_10_9/e_10_9.tex [51]) (./sections/e_10_12/e_10_12.tex [52]) (./sections/e_10_15/e_10_15.tex [53]) (./sections/e_10_16/e_10_16.tex [54]) (./sections/e_10_21/e_10_21.tex [55]) (./sections/e_10_23/e_10_23.tex [56]) (./sections/e_13_2/e_13_2.tex [57]) (./sections/e_13_3/e_13_3.tex [58]) (./sections/e_13_4/e_13_4.tex [59]) (./sections/e_13_5/e_13_5.tex [60]) (./sections/e_13_8/e_13_8.tex [61]) (./sections/e_13_9/e_13_9.tex [62]) (./main.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--26
+
+ []
+
+[41 <./images//e_8_7_0.png> <./images//e_8_7_1.png>] [42]) (./sections/e_8_8/e_8_8.tex
+<./images//e_8_8_0.png, id=213, 399.4925pt x 311.1625pt>
+File: ./images//e_8_8_0.png Graphic file (type png)
+<use ./images//e_8_8_0.png>
+Package pdftex.def Info: ./images//e_8_8_0.png  used on input line 7.
+(pdftex.def)             Requested size: 119.84866pt x 93.34947pt.
+<./images//e_8_8_1.png, id=214, 326.21875pt x 315.1775pt>
+File: ./images//e_8_8_1.png Graphic file (type png)
+<use ./images//e_8_8_1.png>
+Package pdftex.def Info: ./images//e_8_8_1.png  used on input line 8.
+(pdftex.def)             Requested size: 97.86636pt x 94.55397pt.
+ [43 <./images//e_8_8_0.png> <./images//e_8_8_1.png>] [44]) (./sections/e_8_10/e_8_10.tex
+<./images//e_8_10.png, id=224, 335.2525pt x 316.18124pt>
+File: ./images//e_8_10.png Graphic file (type png)
+<use ./images//e_8_10.png>
+Package pdftex.def Info: ./images//e_8_10.png  used on input line 8.
+(pdftex.def)             Requested size: 100.57652pt x 94.8551pt.
+ [45 <./images//e_8_10.png>]) (./sections/e_8_11/e_8_11.tex
+<./images//e_8_11_0.png, id=229, 364.36125pt x 316.18124pt>
+File: ./images//e_8_11_0.png Graphic file (type png)
+<use ./images//e_8_11_0.png>
+Package pdftex.def Info: ./images//e_8_11_0.png  used on input line 8.
+(pdftex.def)             Requested size: 109.3092pt x 94.8551pt.
+<./images//e_8_11_1.png, id=230, 266.9975pt x 248.93pt>
+File: ./images//e_8_11_1.png Graphic file (type png)
+<use ./images//e_8_11_1.png>
+Package pdftex.def Info: ./images//e_8_11_1.png  used on input line 9.
+(pdftex.def)             Requested size: 80.09985pt x 74.67957pt.
+ [46 <./images//e_8_11_0.png> <./images//e_8_11_1.png>]) (./sections/e_8_12/e_8_12.tex
+<./images//e_8_12_0.png, id=236, 266.9975pt x 248.93pt>
+File: ./images//e_8_12_0.png Graphic file (type png)
+<use ./images//e_8_12_0.png>
+Package pdftex.def Info: ./images//e_8_12_0.png  used on input line 8.
+(pdftex.def)             Requested size: 80.09985pt x 74.67957pt.
+<./images//e_8_12_1.png, id=237, 443.6575pt x 280.04625pt>
+File: ./images//e_8_12_1.png Graphic file (type png)
+<use ./images//e_8_12_1.png>
+Package pdftex.def Info: ./images//e_8_12_1.png  used on input line 9.
+(pdftex.def)             Requested size: 133.09827pt x 84.01451pt.
+ [47 <./images//e_8_12_0.png> <./images//e_8_12_1.png>]) (./sections/e_10_1/e_10_1.tex
+<./images//e_10_1_0.png, id=243, 192.72pt x 274.02374pt>
+File: ./images//e_10_1_0.png Graphic file (type png)
+<use ./images//e_10_1_0.png>
+Package pdftex.def Info: ./images//e_10_1_0.png  used on input line 8.
+(pdftex.def)             Requested size: 57.81644pt x 82.20775pt.
+<./images//e_10_1_1.png, id=244, 192.72pt x 274.02374pt>
+File: ./images//e_10_1_1.png Graphic file (type png)
+<use ./images//e_10_1_1.png>
+Package pdftex.def Info: ./images//e_10_1_1.png  used on input line 9.
+(pdftex.def)             Requested size: 57.81644pt x 82.20775pt.
+
+Overfull \hbox (17.99074pt too wide) in paragraph at lines 12--17
+\OT1/cmr/m/n/12 Analogamente: $\OML/cmm/m/it/12 "[] \OT1/cmr/m/n/12 = [][] []\OML/cmm/m/it/12 d[] \OT1/cmr/m/n/12 = [][] [] \OMS/cmsy/m/n/12 ^ []\OML/cmm/m/it/12 ds \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[] [][] [] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[]\OML/cmm/m/it/12 ln []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--29
+
+ []
+
+[48 <./images//e_10_1_0.png> <./images//e_10_1_1.png>] [49]) (./sections/e_10_2/e_10_2.tex
+<./images//e_10_2.png, id=254, 290.08376pt x 271.0125pt>
+File: ./images//e_10_2.png Graphic file (type png)
+<use ./images//e_10_2.png>
+Package pdftex.def Info: ./images//e_10_2.png  used on input line 7.
+(pdftex.def)             Requested size: 87.02579pt x 81.30437pt.
+
+Overfull \hbox (8.99933pt too wide) in paragraph at lines 13--35
+\OML/cmm/m/it/12 W \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 Ri[]dt \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 R[]b[]B[] [][] e[]dt \OT1/cmr/m/n/12 = [][] [] = []\OML/cmm/m/it/12 mv[] [] \OT1/cmr/m/n/12 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--35
+
+ []
+
+[50 <./images//e_10_2.png>] [51]) (./sections/e_10_4/e_10_4.tex
+<./images//e_10_4.png, id=263, 290.08376pt x 271.0125pt>
+File: ./images//e_10_4.png Graphic file (type png)
+<use ./images//e_10_4.png>
+Package pdftex.def Info: ./images//e_10_4.png  used on input line 7.
+(pdftex.def)             Requested size: 87.02579pt x 81.30437pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+[52 <./images//e_10_4.png>]) (./sections/e_10_6/e_10_6.tex
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
+
+Missing character: There is no ° in font cmr12!
+<./images//e_10_6.png, id=268, 230.8625pt x 186.6975pt>
+File: ./images//e_10_6.png Graphic file (type png)
+<use ./images//e_10_6.png>
+Package pdftex.def Info: ./images//e_10_6.png  used on input line 8.
+(pdftex.def)             Requested size: 230.86192pt x 186.69704pt.
+[53 <./images//e_10_6.png>] [54]) (./sections/e_10_7/e_10_7.tex [55]) (./sections/e_10_9/e_10_9.tex [56]) (./sections/e_10_12/e_10_12.tex [57]) (./sections/e_10_13/e_10_13.tex [58]) (./sections/e_10_15/e_10_15.tex [59]) (./sections/e_10_16/e_10_16.tex [60]) (./sections/e_10_21/e_10_21.tex [61]) (./sections/e_10_23/e_10_23.tex [62]) (./sections/e_13_2/e_13_2.tex [63]) (./sections/e_13_3/e_13_3.tex [64]) (./sections/e_13_4/e_13_4.tex [65]) (./sections/e_13_5/e_13_5.tex [66]) (./sections/e_13_8/e_13_8.tex [67]) (./sections/e_13_9/e_13_9.tex [68]) (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2727 strings out of 480247
- 48394 string characters out of 5896150
- 328730 words of memory out of 5000000
- 20401 multiletter control sequences out of 15000+600000
+ 2845 strings out of 480247
+ 51235 string characters out of 5896150
+ 329752 words of memory out of 5000000
+ 20499 multiletter control sequences out of 15000+600000
  475889 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,7n,62p,445b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,62p,511b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/stefano/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (62 pages, 990676 bytes).
+Output written on main.pdf (68 pages, 1129549 bytes).
 PDF statistics:
- 335 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
+ 378 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
