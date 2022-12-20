@@ -2,9 +2,27 @@
 \begin{document}
 
 \subsection*{10.13}
+Una bobina è formata da N = 20 spire, le quali sono disposte secondo due semicirconferenze eguali, di raggi $a = 10\ cm$, situate in due piani ortogonali tra loro. Tale bobina ruota con velocità angolare $\omega = 100\ \frac{rad}{s}$ atorno all'asse individuato dall'intersezione dei due piani ed è immersa in un campo magnetico $B= 0.5\ T$ uniforme e costante, ortogonale all'asse di rotazione.\\
+Calcolare la f.e.m. $\varepsilon_i$ il suo valore massimo $\varepsilon_{max}$, la potenza medi asviluppata se la resistenza della bobina è $R = 10\ \Omega$.
 \subsubsection*{Formule utilizzate}
 \subsubsection*{Soluzione punto a}
+Flusso nella prima circonferenza data dal campo magnetico B\\
+$\Phi(\vec{B}) = \int_\Sigma \vec{B}\vec{u_n}d\Sigma = \int_\Sigma Bd\Sigma cos\alpha$\\
+Dato che la semicirconferenza ruota, la normale $\vec{u_n}$ non è costante.\\
+Sappiamo però che $\alpha_1 + \alpha_2 = \pi$\\
+$\alpha$ sarà quindi dato da $\alpha = \alpha_0 + \omega t$\\
+$\Sigma = \frac{\pi a^2}{2}$\\
+$\Phi(\vec{B}) = B \frac{\pi a^2}{2}cos\omega t$\\\\
+Il flusso attraverso la seconda metà della spira sarà analogo\\
+$\Phi(t) = NB\frac{\pi a^2}{2}cos\omega t + NB\frac{\pi a^2}{2}cos\left(\omega t + \frac{\pi}{2}\right)$\\
+$cos\alpha + cos\beta = 2cos\left(\frac{\alpha + \beta}{2}\right)cos\left(\frac{\alpha - \beta}{2}\right)$\\
+$\Phi(t) = NB\frac{\pi a^2}{2}\left[2cos\left(\omega t+ \frac{\pi}{4}\right)cos\left(-\frac{\pi}{4}\right)\right] = NB\frac{\pi a^2}{\sqrt{2}}cos\left(\omega t+ \frac{\pi}{4}\right)$\\
+$\varepsilon_{max} = \omega NB\frac{\pi a^2}{\sqrt{2}}=22.2\ V$
 \subsubsection*{Soluzione punto b}
+Calcolare il valor medio della potenza:\\
+$P = \varepsilon_i i = \frac{\varepsilon_i ^ 2}{R} = \frac{\left[\omega NB \frac{\pi a^2}{\sqrt{2}} sin\left(\omega t +\frac{\pi}{4}\right)\right]^2}{R}$\\
+Il valore medio della potenza si calcola integrando su un periodo T dato che la funzione è periodica.\\
+$P_m =\frac{\varepsilon_{max}^2}{2R} = 24.7\ W$
 \newpage
 
 \end{document}
