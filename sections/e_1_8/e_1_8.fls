@@ -1,10 +1,10 @@
-PWD /home/stefano/Documents/Uni/Fisica II/Esercizi
+PWD /home/stefano/Documents/Uni/Fisica II/Esercizi/sections/e_1_8
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/stefano/Documents/Uni/Fisica II/Esercizi/sections/e_1_8/e_1_8.tex
-OUTPUT sections/e_1_8/e_1_8.log
+INPUT e_1_8.tex
+OUTPUT e_1_8.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
@@ -27,10 +27,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
-INPUT sections/e_1_8/../../main.tex
-INPUT sections/e_1_8/../../main.tex
-INPUT sections/e_1_8/../../main.tex
-INPUT sections/e_1_8/../../main.tex
+INPUT ../../main.tex
+INPUT ../../main.tex
+INPUT ../../main.tex
+INPUT ../../main.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -182,10 +182,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT sections/e_1_8/e_1_8.aux
-INPUT sections/e_1_8/e_1_8.aux
-INPUT sections/e_1_8/e_1_8.aux
-OUTPUT sections/e_1_8/e_1_8.aux
+INPUT ./e_1_8.aux
+INPUT e_1_8.aux
+INPUT e_1_8.aux
+OUTPUT e_1_8.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -218,15 +218,15 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT sections/e_1_8/../.././images//e_1_8.png
-INPUT sections/e_1_8/../.././images//e_1_8.png
-INPUT sections/e_1_8/../.././images//e_1_8.png
-INPUT sections/e_1_8/../.././images//e_1_8.png
-OUTPUT sections/e_1_8/e_1_8.pdf
-INPUT sections/e_1_8/../.././images//e_1_8.png
+INPUT ../.././images//e_1_8.png
+INPUT ../.././images//e_1_8.png
+INPUT ../.././images//e_1_8.png
+INPUT ../.././images//e_1_8.png
+OUTPUT e_1_8.pdf
+INPUT ../.././images//e_1_8.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT sections/e_1_8/e_1_8.aux
+INPUT e_1_8.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb

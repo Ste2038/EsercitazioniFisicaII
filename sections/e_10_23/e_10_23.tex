@@ -2,9 +2,31 @@
 \begin{document}
 
 \subsection*{10.23}
+Le due armature piane circolari di un condensatore hanno area $\Sigma = 0.1m^2$, distano d e sono collegate ad un generatore di f.e.m. $V=V_0\sin\omega t$ con $V_0 = 200V$, $\Omega = 100\frac{rad}{s}$. La corrente massima di conduzione nei fili è $i_0 = 8.86\mu A$.\\
+Calcolare i valori massimi della corrente di spostamento e della densità di corrente di spostamento.\\
+Calcolare i valori massimi di $\frac{d\Phi(\vec{E})}{dt}$\\
+Calcolare la distanza d tra le armature.\\
+Calcolare il valore massimo del campo magnetico in funzione della distanza r dal centro del condensatore.
 \subsubsection*{Formule utilizzate}
 \subsubsection*{Soluzione punto a}
+$i_{s, max} = i_{c, max}=i_0 = 8.86 * 10^{-6}\ A$\\
 \subsubsection*{Soluzione punto b}
+Il valore massimo di $\frac{d\Phi(\vec{E})}{dt}$, si avrà in corrispondenza della corrente di conduzione massima.\\
+Dividendo per l'area $\Sigma$ otteniamo la densità di corrente.\\
+$j_{s, max} = \frac{i_{s, max}}{\Sigma} = 8.86 * 10^{-5}\ \frac{A}{m^2}$\\
+$\left[\frac{d\Phi(\vec{E})}{dt}\right]_{max} = \frac{i_{s, max}}{\epsilon_0} = 10^6\ \frac{Vm}{s}$\\
+$i_s = \frac{dq}{dt} = \frac{d(CV)}{dt} = C\omega V_0 cos\omega t$\\
+\subsubsection*{Soluzione punto c}
+Possiamo ricavare la distanza fra le due armature:\\
+$d = \frac{\epsilon_0 \Sigma}{i_{s ,max}}\omega V_0 = 2 mm$\\
+\subsubsection*{Soluzione punto d}
+Il raggio R delle armature circolari di area $\Sigma$ vale:\\
+$R = \sqrt{\frac{\Sigma}{\pi}} = 0.178\ m$\\
+Quindi internamente alle armature ($0 \le r \le R$):\\
+$2\pi r B(r) = \mu_0 i_s \frac{\pi r^2}{\pi R^2}$\tab $B(r) = \frac{\mu_0 i_s}{2\pi R^2}$\\
+$B_{max} = \frac{\mu_0 i_{s, max} r}{2\pi R^2} = 5.59 * 10^{-11} r T$\\
+Esternamente alle armature ($ R \le r$):\\
+$2\pi rB(r) = \mu_0 i_s \rightarrow B(r) = \frac{\mu_0 i_s}{2\pi r}$\\
+$B_{max}  =\frac{\mu_0 i_{s,max}}{2\pi r} = \frac{1.77 * 10^{-12}}{r}\ T$.
 \newpage
-
 \end{document}

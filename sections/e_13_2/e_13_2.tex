@@ -1,8 +1,30 @@
 \documentclass[../../main.tex]{subfiles}
 \begin{document}
 \subsection*{13.2}
+Una lampada da 500W irradia tale potenza isotropicamente con efficenza del 80\%.\\
+Calcolare alla distanza $r=5\ m$ l'intensità I.\\
+Calcolare alla stessa distanza i valori di massimi $E_0$ del campo elettrico e $B_0$ del campo magnetico.\\
+Calcolare alla stessa distanza la forza esercitata su un dischetto di raggio $a=5\ cm$, perfettamente riflettente ortogonale alla direzione di propagazione delle onde.
 \subsubsection*{Formule utilizzate}
 \subsubsection*{Soluzione punto a}
+La potenza reale è l'80\% del totale.\\
+$P_{reale} = 0.8 * 500 = 400\ W$\\
+Il vettore di poynting indica il trasferimento di energia\\
+$\vec{S} = \frac{\vec{E}\wedge\vec{B}}{\mu}$\\
+$I = \frac{P_{erogata}}{4\pi r^2} = 1.27\ \frac{W}{m^2}$\\
 \subsubsection*{Soluzione punto b}
+Il valore massimo $E_0$ del campo elettrico:\\
+$I = \frac{1}{2}\epsilon_0\ c\ E_0^2 = \frac{1}{2}\frac{1}{Z_0}E_0^2$\\
+Poichè $\epsilon_0 c = \epsilon_0\frac{1}{\sqrt{\epsilon_0\mu_0}} = \sqrt{\frac{\epsilon_0}{\mu_0}} = \frac{1}{Z_0}$\
+Quindi: $E_0 = \sqrt{2\ Z_0\ I} = 30.9\ \frac{V}{m}$\\
+Il valore massimo di $B_0$ del campo magnetico è:\\
+$B_0 = \frac{E_0}{c} = 10.3 * 10^{-8}\ T$
+\subsubsection*{Soluzione punto c}
+La forza F esercitata su un dischetto di raggio $a = 5\ cm = 0.05\ m$, perfettamente riflettente ortogonale alla direzione di propagazione delle onde si trova usando la pressione di radiazione per una superficie perfettamente riflettente:\\\\
+Nel caso in cui la superficie fosse perfettametnte assorbente:\\
+$p_{rad} = \frac{I}{c}$\\
+Nel nostro caso invece la pressione è doppia perchè viene riflessa\\
+$p_{rad} = \frac{2I}{c}$\\
+$F = p_{rad} A_{disco} = \frac{2I}{c} \pi a^2 = 6.65 * 10^{-11}\ N$\\
 \newpage
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.23)  16 DEC 2022 18:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.23)  10 JAN 2023 11:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -102,7 +102,7 @@ Package: import 2020/04/01  v 6.2
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box52
-) (./main.aux)
+) (./main.aux (./sections/formulario/formulario.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -143,8 +143,53 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./sections/e_1_2/e_1_2.tex
-<./images//e_1_2.png, id=9, 338.26375pt x 344.28625pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `sections/formulario/formulario.aux'.
+
+ (./sections/formulario/formulario.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[2
+
+]) (./sections/e_1_2/e_1_2.tex
+<./images//e_1_2.png, id=18, 338.26375pt x 344.28625pt>
 File: ./images//e_1_2.png Graphic file (type png)
 <use ./images//e_1_2.png>
 Package pdftex.def Info: ./images//e_1_2.png  used on input line 7.
@@ -159,26 +204,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--34
 
  []
 
-[2 <./images//e_1_2.png>] [3]) (./sections/e_1_3/e_1_3.tex
-<./images//e_1_3.png, id=26, 459.7175pt x 490.83376pt>
+[3
+
+
+ <./images//e_1_2.png>] [4]) (./sections/e_1_3/e_1_3.tex
+<./images//e_1_3.png, id=29, 459.7175pt x 490.83376pt>
 File: ./images//e_1_3.png Graphic file (type png)
 <use ./images//e_1_3.png>
 Package pdftex.def Info: ./images//e_1_3.png  used on input line 7.
 (pdftex.def)             Requested size: 137.9163pt x 147.25125pt.
- [4 <./images//e_1_3.png>]) (./sections/e_1_8/e_1_8.tex
-<./images//e_1_8.png, id=31, 483.8075pt x 373.395pt>
+ [5 <./images//e_1_3.png>]) (./sections/e_1_8/e_1_8.tex
+<./images//e_1_8.png, id=34, 483.8075pt x 373.395pt>
 File: ./images//e_1_8.png Graphic file (type png)
 <use ./images//e_1_8.png>
 Package pdftex.def Info: ./images//e_1_8.png  used on input line 8.
 (pdftex.def)             Requested size: 145.14337pt x 112.01936pt.
- [5 <./images//e_1_8.png>]) (./sections/e_2_1/e_2_1.tex
-<./images//e_2_1.png, id=36, 521.95pt x 495.8525pt>
+ [6 <./images//e_1_8.png>]) (./sections/e_2_1/e_2_1.tex
+<./images//e_2_1.png, id=39, 521.95pt x 495.8525pt>
 File: ./images//e_2_1.png Graphic file (type png)
 <use ./images//e_2_1.png>
 Package pdftex.def Info: ./images//e_2_1.png  used on input line 9.
 (pdftex.def)             Requested size: 156.5862pt x 148.7569pt.
- [6 <./images//e_2_1.png>] [7]) (./sections/e_2_5/e_2_5.tex
-<./images//e_2_5.png, id=46, 521.95pt x 284.06125pt>
+ [7 <./images//e_2_1.png>] [8]) (./sections/e_2_5/e_2_5.tex
+<./images//e_2_5.png, id=49, 521.95pt x 284.06125pt>
 File: ./images//e_2_5.png Graphic file (type png)
 <use ./images//e_2_5.png>
 Package pdftex.def Info: ./images//e_2_5.png  used on input line 8.
@@ -188,19 +236,19 @@ Overfull \hbox (0.85295pt too wide) in paragraph at lines 12--15
 $\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 B\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 A\OT1/cmr/m/n/12 ) = [] + [] = [] [] = 52\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 47 \OML/cmm/m/it/12 V$ 
  []
 
-[8 <./images//e_2_5.png>]) (./sections/e_2_7/e_2_7.tex
-<./images//e_2_7_0.png, id=51, 435.6275pt x 364.36125pt>
+[9 <./images//e_2_5.png>]) (./sections/e_2_7/e_2_7.tex
+<./images//e_2_7_0.png, id=54, 435.6275pt x 364.36125pt>
 File: ./images//e_2_7_0.png Graphic file (type png)
 <use ./images//e_2_7_0.png>
 Package pdftex.def Info: ./images//e_2_7_0.png  used on input line 8.
 (pdftex.def)             Requested size: 130.68925pt x 109.3092pt.
-<./images//e_2_7_1.png, id=52, 498.86375pt x 642.4pt>
+<./images//e_2_7_1.png, id=55, 498.86375pt x 642.4pt>
 File: ./images//e_2_7_1.png Graphic file (type png)
 <use ./images//e_2_7_1.png>
 Package pdftex.def Info: ./images//e_2_7_1.png  used on input line 9.
 (pdftex.def)             Requested size: 149.66028pt x 192.72148pt.
- [9 <./images//e_2_7_0.png> <./images//e_2_7_1.png>] [10]) (./sections/e_3_2/e_3_2.tex
-<./images//e_3_2.png, id=61, 782.925pt x 490.83376pt>
+ [10 <./images//e_2_7_0.png> <./images//e_2_7_1.png>] [11]) (./sections/e_3_2/e_3_2.tex
+<./images//e_3_2.png, id=64, 782.925pt x 490.83376pt>
 File: ./images//e_3_2.png Graphic file (type png)
 <use ./images//e_3_2.png>
 Package pdftex.def Info: ./images//e_3_2.png  used on input line 7.
@@ -210,8 +258,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--23
 
  []
 
-[11 <./images//e_3_2.png>] [12]) (./sections/e_3_3/e_3_3.tex
-<./images//e_3_3.png, id=69, 537.00626pt x 366.36874pt>
+[12 <./images//e_3_2.png>] [13]) (./sections/e_3_3/e_3_3.tex
+<./images//e_3_3.png, id=73, 537.00626pt x 366.36874pt>
 File: ./images//e_3_3.png Graphic file (type png)
 <use ./images//e_3_3.png>
 Package pdftex.def Info: ./images//e_3_3.png  used on input line 8.
@@ -236,14 +284,14 @@ Overfull \hbox (41.94936pt too wide) in paragraph at lines 25--29
 $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 V \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 R[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 R[]\OT1/cmr/m/n/12 ) = [][] \OML/cmm/m/it/12 E\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 r\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 dr \OT1/cmr/m/n/12 = [](\OML/cmm/m/it/12 r \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 dr \OT1/cmr/m/n/12 = [] [] =
  []
 
-[13 <./images//e_3_3.png>] [14]) (./sections/e_3_5/e_3_5.tex
-<./images//e_3_5.png, id=78, 375.4025pt x 604.2575pt>
+[14 <./images//e_3_3.png>] [15]) (./sections/e_3_5/e_3_5.tex
+<./images//e_3_5.png, id=81, 375.4025pt x 604.2575pt>
 File: ./images//e_3_5.png Graphic file (type png)
 <use ./images//e_3_5.png>
 Package pdftex.def Info: ./images//e_3_5.png  used on input line 7.
 (pdftex.def)             Requested size: 112.62161pt x 181.27864pt.
- [15 <./images//e_3_5.png>]) (./sections/e_3_9/e_3_9.tex [16]) (./sections/e_4_1/e_4_1.tex
-<./images//e_4_1.png, id=86, 989.6975pt x 416.55624pt>
+ [16 <./images//e_3_5.png>]) (./sections/e_3_9/e_3_9.tex [17]) (./sections/e_4_1/e_4_1.tex
+<./images//e_4_1.png, id=89, 989.6975pt x 416.55624pt>
 File: ./images//e_4_1.png Graphic file (type png)
 <use ./images//e_4_1.png>
 Package pdftex.def Info: ./images//e_4_1.png  used on input line 8.
@@ -253,13 +301,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--21
 
  []
 
-[17 <./images//e_4_1.png>] [18]) (./sections/e_4_5/e_4_5.tex
-<./images//e_4_5.png, id=94, 536.0025pt x 531.9875pt>
+[18 <./images//e_4_1.png>] [19]) (./sections/e_4_5/e_4_5.tex
+<./images//e_4_5.png, id=98, 536.0025pt x 531.9875pt>
 File: ./images//e_4_5.png Graphic file (type png)
 <use ./images//e_4_5.png>
 Package pdftex.def Info: ./images//e_4_5.png  used on input line 8.
 (pdftex.def)             Requested size: 160.80199pt x 159.59747pt.
- [19 <./images//e_4_5.png>] [20]) (./sections/e_7_1/e_7_1.tex
+ [20 <./images//e_4_5.png>] [21]) (./sections/e_7_1/e_7_1.tex
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
 
@@ -267,12 +315,12 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
 
 Missing character: There is no ° in font cmr12!
-<./images//e_7_1_0.png, id=103, 948.54375pt x 390.45876pt>
+<./images//e_7_1_0.png, id=106, 948.54375pt x 390.45876pt>
 File: ./images//e_7_1_0.png Graphic file (type png)
 <use ./images//e_7_1_0.png>
 Package pdftex.def Info: ./images//e_7_1_0.png  used on input line 7.
 (pdftex.def)             Requested size: 284.56532pt x 117.13852pt.
-<./images//e_7_1_1.png, id=104, 597.23125pt x 394.47375pt>
+<./images//e_7_1_1.png, id=107, 597.23125pt x 394.47375pt>
 File: ./images//e_7_1_1.png Graphic file (type png)
 <use ./images//e_7_1_1.png>
 Package pdftex.def Info: ./images//e_7_1_1.png  used on input line 8.
@@ -284,13 +332,13 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 22.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 22.
 
 Missing character: There is no ° in font cmr12!
-[21 <./images//e_7_1_0.png> <./images//e_7_1_1.png>] [22]) (./sections/e_7_4/e_7_4.tex
-<./images//e_7_4.png, id=113, 328.22626pt x 636.3775pt>
+[22 <./images//e_7_1_0.png> <./images//e_7_1_1.png>] [23]) (./sections/e_7_4/e_7_4.tex
+<./images//e_7_4.png, id=116, 328.22626pt x 636.3775pt>
 File: ./images//e_7_4.png Graphic file (type png)
 <use ./images//e_7_4.png>
 Package pdftex.def Info: ./images//e_7_4.png  used on input line 12.
 (pdftex.def)             Requested size: 98.46863pt x 190.91472pt.
- [23 <./images//e_7_4.png>] [24]) (./sections/e_7_6/e_7_6.tex
+ [24 <./images//e_7_4.png>] [25]) (./sections/e_7_6/e_7_6.tex
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 6.
 
@@ -298,40 +346,40 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 6.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 6.
 
 Missing character: There is no ° in font cmr12!
-<./images//e_7_6.png, id=121, 406.51875pt x 383.4325pt>
+<./images//e_7_6.png, id=125, 406.51875pt x 383.4325pt>
 File: ./images//e_7_6.png Graphic file (type png)
 <use ./images//e_7_6.png>
 Package pdftex.def Info: ./images//e_7_6.png  used on input line 10.
 (pdftex.def)             Requested size: 121.95656pt x 115.03062pt.
-[25 <./images//e_7_6.png>] [26]) (./sections/e_7_7/e_7_7.tex
-<./images//e_7_7_0.png, id=130, 424.58624pt x 325.215pt>
+[26 <./images//e_7_6.png>] [27]) (./sections/e_7_7/e_7_7.tex
+<./images//e_7_7_0.png, id=133, 424.58624pt x 325.215pt>
 File: ./images//e_7_7_0.png Graphic file (type png)
 <use ./images//e_7_7_0.png>
 Package pdftex.def Info: ./images//e_7_7_0.png  used on input line 8.
 (pdftex.def)             Requested size: 127.37685pt x 97.56525pt.
-<./images//e_7_7_1.png, id=131, 440.64626pt x 347.2975pt>
+<./images//e_7_7_1.png, id=134, 440.64626pt x 347.2975pt>
 File: ./images//e_7_7_1.png Graphic file (type png)
 <use ./images//e_7_7_1.png>
 Package pdftex.def Info: ./images//e_7_7_1.png  used on input line 9.
 (pdftex.def)             Requested size: 132.19489pt x 104.19005pt.
- [27 <./images//e_7_7_0.png> <./images//e_7_7_1.png>]) (./sections/e_7_10/e_7_10.tex
-<./images//e_7_10_0.png, id=137, 649.42625pt x 360.34625pt>
+ [28 <./images//e_7_7_0.png> <./images//e_7_7_1.png>]) (./sections/e_7_10/e_7_10.tex
+<./images//e_7_10_0.png, id=140, 649.42625pt x 360.34625pt>
 File: ./images//e_7_10_0.png Graphic file (type png)
 <use ./images//e_7_10_0.png>
 Package pdftex.def Info: ./images//e_7_10_0.png  used on input line 9.
 (pdftex.def)             Requested size: 194.82938pt x 108.1047pt.
-<./images//e_7_10_1.png, id=138, 392.46625pt x 321.2pt>
+<./images//e_7_10_1.png, id=141, 392.46625pt x 321.2pt>
 File: ./images//e_7_10_1.png Graphic file (type png)
 <use ./images//e_7_10_1.png>
 Package pdftex.def Info: ./images//e_7_10_1.png  used on input line 10.
 (pdftex.def)             Requested size: 117.74077pt x 96.36073pt.
- [28 <./images//e_7_10_0.png> <./images//e_7_10_1.png>]) (./sections/e_7_11/e_7_11.tex [29]) (./sections/e_7_12/e_7_12.tex
-<./images//e_7_12.png, id=147, 537.00626pt x 507.8975pt>
+ [29 <./images//e_7_10_0.png> <./images//e_7_10_1.png>]) (./sections/e_7_11/e_7_11.tex [30]) (./sections/e_7_12/e_7_12.tex
+<./images//e_7_12.png, id=150, 537.00626pt x 507.8975pt>
 File: ./images//e_7_12.png Graphic file (type png)
 <use ./images//e_7_12.png>
 Package pdftex.def Info: ./images//e_7_12.png  used on input line 8.
 (pdftex.def)             Requested size: 161.10312pt x 152.37042pt.
- [30 <./images//e_7_12.png>] [31]) (./sections/e_7_13/e_7_13.tex
+ [31 <./images//e_7_12.png>] [32]) (./sections/e_7_13/e_7_13.tex
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 6.
 
@@ -339,7 +387,7 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 6.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 6.
 
 Missing character: There is no ° in font cmr12!
-<./images//e_7_13.png, id=156, 510.90875pt x 552.0625pt>
+<./images//e_7_13.png, id=159, 510.90875pt x 552.0625pt>
 File: ./images//e_7_13.png Graphic file (type png)
 <use ./images//e_7_13.png>
 Package pdftex.def Info: ./images//e_7_13.png  used on input line 8.
@@ -365,47 +413,47 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 22.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 22.
 
 Missing character: There is no ° in font cmr12!
-[32 <./images//e_7_13.png>] [33]) (./sections/e_8_1/e_8_1.tex
-<./images//e_8_1.png, id=164, 443.6575pt x 275.0275pt>
+[33 <./images//e_7_13.png>] [34]) (./sections/e_8_1/e_8_1.tex
+<./images//e_8_1.png, id=167, 443.6575pt x 275.0275pt>
 File: ./images//e_8_1.png Graphic file (type png)
 <use ./images//e_8_1.png>
 Package pdftex.def Info: ./images//e_8_1.png  used on input line 8.
 (pdftex.def)             Requested size: 133.09827pt x 82.50888pt.
- [34 <./images//e_8_1.png>] [35]) (./sections/e_8_2/e_8_2.tex
-<./images//e_8_2_0.png, id=173, 312.16624pt x 215.80624pt>
+ [35 <./images//e_8_1.png>] [36]) (./sections/e_8_2/e_8_2.tex
+<./images//e_8_2_0.png, id=176, 312.16624pt x 215.80624pt>
 File: ./images//e_8_2_0.png Graphic file (type png)
 <use ./images//e_8_2_0.png>
 Package pdftex.def Info: ./images//e_8_2_0.png  used on input line 8.
 (pdftex.def)             Requested size: 93.65059pt x 64.74237pt.
-<./images//e_8_2_1.png, id=174, 280.04625pt x 264.99pt>
+<./images//e_8_2_1.png, id=177, 280.04625pt x 264.99pt>
 File: ./images//e_8_2_1.png Graphic file (type png)
 <use ./images//e_8_2_1.png>
 Package pdftex.def Info: ./images//e_8_2_1.png  used on input line 9.
 (pdftex.def)             Requested size: 84.01451pt x 79.4976pt.
- [36 <./images//e_8_2_0.png> <./images//e_8_2_1.png>]) (./sections/e_8_3/e_8_3.tex
-<./images//e_8_3_0.png, id=180, 377.41pt x 256.96pt>
+ [37 <./images//e_8_2_0.png> <./images//e_8_2_1.png>]) (./sections/e_8_3/e_8_3.tex
+<./images//e_8_3_0.png, id=184, 377.41pt x 256.96pt>
 File: ./images//e_8_3_0.png Graphic file (type png)
 <use ./images//e_8_3_0.png>
 Package pdftex.def Info: ./images//e_8_3_0.png  used on input line 7.
 (pdftex.def)             Requested size: 113.22386pt x 77.0886pt.
-<./images//e_8_3_1.png, id=181, 527.9725pt x 354.32375pt>
+<./images//e_8_3_1.png, id=185, 527.9725pt x 354.32375pt>
 File: ./images//e_8_3_1.png Graphic file (type png)
 <use ./images//e_8_3_1.png>
 Package pdftex.def Info: ./images//e_8_3_1.png  used on input line 8.
 (pdftex.def)             Requested size: 158.39296pt x 106.29794pt.
- [37 <./images//e_8_3_0.png> <./images//e_8_3_1.png>]) (./sections/e_8_4/e_8_4.tex
-<./images//e_8_4_0.png, id=188, 397.485pt x 308.15125pt>
+ [38 <./images//e_8_3_0.png> <./images//e_8_3_1.png>]) (./sections/e_8_4/e_8_4.tex
+<./images//e_8_4_0.png, id=191, 397.485pt x 308.15125pt>
 File: ./images//e_8_4_0.png Graphic file (type png)
 <use ./images//e_8_4_0.png>
 Package pdftex.def Info: ./images//e_8_4_0.png  used on input line 8.
 (pdftex.def)             Requested size: 119.24641pt x 92.44608pt.
-<./images//e_8_4_1.png, id=189, 300.12125pt x 279.0425pt>
+<./images//e_8_4_1.png, id=192, 300.12125pt x 279.0425pt>
 File: ./images//e_8_4_1.png Graphic file (type png)
 <use ./images//e_8_4_1.png>
 Package pdftex.def Info: ./images//e_8_4_1.png  used on input line 9.
 (pdftex.def)             Requested size: 90.03706pt x 83.7134pt.
- [38 <./images//e_8_4_0.png> <./images//e_8_4_1.png>]) (./sections/e_8_6/e_8_6.tex
-<./images//e_8_6.png, id=195, 643.40375pt x 328.22626pt>
+ [39 <./images//e_8_4_0.png> <./images//e_8_4_1.png>]) (./sections/e_8_6/e_8_6.tex
+<./images//e_8_6.png, id=198, 643.40375pt x 328.22626pt>
 File: ./images//e_8_6.png Graphic file (type png)
 <use ./images//e_8_6.png>
 Package pdftex.def Info: ./images//e_8_6.png  used on input line 8.
@@ -420,13 +468,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--25
 
  []
 
-[39 <./images//e_8_6.png>] [40]) (./sections/e_8_7/e_8_7.tex
-<./images//e_8_7_0.png, id=203, 390.45876pt x 241.90375pt>
+[40 <./images//e_8_6.png>] [41]) (./sections/e_8_7/e_8_7.tex
+<./images//e_8_7_0.png, id=206, 390.45876pt x 241.90375pt>
 File: ./images//e_8_7_0.png Graphic file (type png)
 <use ./images//e_8_7_0.png>
 Package pdftex.def Info: ./images//e_8_7_0.png  used on input line 8.
 (pdftex.def)             Requested size: 117.13852pt x 72.57167pt.
-<./images//e_8_7_1.png, id=204, 261.97874pt x 280.04625pt>
+<./images//e_8_7_1.png, id=207, 261.97874pt x 280.04625pt>
 File: ./images//e_8_7_1.png Graphic file (type png)
 <use ./images//e_8_7_1.png>
 Package pdftex.def Info: ./images//e_8_7_1.png  used on input line 9.
@@ -436,52 +484,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--26
 
  []
 
-[41 <./images//e_8_7_0.png> <./images//e_8_7_1.png>] [42]) (./sections/e_8_8/e_8_8.tex
-<./images//e_8_8_0.png, id=213, 399.4925pt x 311.1625pt>
+[42 <./images//e_8_7_0.png> <./images//e_8_7_1.png>] [43]) (./sections/e_8_8/e_8_8.tex
+<./images//e_8_8_0.png, id=217, 399.4925pt x 311.1625pt>
 File: ./images//e_8_8_0.png Graphic file (type png)
 <use ./images//e_8_8_0.png>
 Package pdftex.def Info: ./images//e_8_8_0.png  used on input line 7.
 (pdftex.def)             Requested size: 119.84866pt x 93.34947pt.
-<./images//e_8_8_1.png, id=214, 326.21875pt x 315.1775pt>
+<./images//e_8_8_1.png, id=218, 326.21875pt x 315.1775pt>
 File: ./images//e_8_8_1.png Graphic file (type png)
 <use ./images//e_8_8_1.png>
 Package pdftex.def Info: ./images//e_8_8_1.png  used on input line 8.
 (pdftex.def)             Requested size: 97.86636pt x 94.55397pt.
- [43 <./images//e_8_8_0.png> <./images//e_8_8_1.png>] [44]) (./sections/e_8_10/e_8_10.tex
-<./images//e_8_10.png, id=224, 335.2525pt x 316.18124pt>
+ [44 <./images//e_8_8_0.png> <./images//e_8_8_1.png>] [45]) (./sections/e_8_10/e_8_10.tex
+<./images//e_8_10.png, id=227, 335.2525pt x 316.18124pt>
 File: ./images//e_8_10.png Graphic file (type png)
 <use ./images//e_8_10.png>
 Package pdftex.def Info: ./images//e_8_10.png  used on input line 8.
 (pdftex.def)             Requested size: 100.57652pt x 94.8551pt.
- [45 <./images//e_8_10.png>]) (./sections/e_8_11/e_8_11.tex
-<./images//e_8_11_0.png, id=229, 364.36125pt x 316.18124pt>
+ [46 <./images//e_8_10.png>]) (./sections/e_8_11/e_8_11.tex
+<./images//e_8_11_0.png, id=232, 364.36125pt x 316.18124pt>
 File: ./images//e_8_11_0.png Graphic file (type png)
 <use ./images//e_8_11_0.png>
 Package pdftex.def Info: ./images//e_8_11_0.png  used on input line 8.
 (pdftex.def)             Requested size: 109.3092pt x 94.8551pt.
-<./images//e_8_11_1.png, id=230, 266.9975pt x 248.93pt>
+<./images//e_8_11_1.png, id=233, 266.9975pt x 248.93pt>
 File: ./images//e_8_11_1.png Graphic file (type png)
 <use ./images//e_8_11_1.png>
 Package pdftex.def Info: ./images//e_8_11_1.png  used on input line 9.
 (pdftex.def)             Requested size: 80.09985pt x 74.67957pt.
- [46 <./images//e_8_11_0.png> <./images//e_8_11_1.png>]) (./sections/e_8_12/e_8_12.tex
-<./images//e_8_12_0.png, id=236, 266.9975pt x 248.93pt>
+ [47 <./images//e_8_11_0.png> <./images//e_8_11_1.png>]) (./sections/e_8_12/e_8_12.tex
+<./images//e_8_12_0.png, id=239, 266.9975pt x 248.93pt>
 File: ./images//e_8_12_0.png Graphic file (type png)
 <use ./images//e_8_12_0.png>
 Package pdftex.def Info: ./images//e_8_12_0.png  used on input line 8.
 (pdftex.def)             Requested size: 80.09985pt x 74.67957pt.
-<./images//e_8_12_1.png, id=237, 443.6575pt x 280.04625pt>
+<./images//e_8_12_1.png, id=240, 443.6575pt x 280.04625pt>
 File: ./images//e_8_12_1.png Graphic file (type png)
 <use ./images//e_8_12_1.png>
 Package pdftex.def Info: ./images//e_8_12_1.png  used on input line 9.
 (pdftex.def)             Requested size: 133.09827pt x 84.01451pt.
- [47 <./images//e_8_12_0.png> <./images//e_8_12_1.png>]) (./sections/e_10_1/e_10_1.tex
-<./images//e_10_1_0.png, id=243, 192.72pt x 274.02374pt>
+ [48 <./images//e_8_12_0.png> <./images//e_8_12_1.png>]) (./sections/e_10_1/e_10_1.tex
+<./images//e_10_1_0.png, id=246, 192.72pt x 274.02374pt>
 File: ./images//e_10_1_0.png Graphic file (type png)
 <use ./images//e_10_1_0.png>
 Package pdftex.def Info: ./images//e_10_1_0.png  used on input line 8.
 (pdftex.def)             Requested size: 57.81644pt x 82.20775pt.
-<./images//e_10_1_1.png, id=244, 192.72pt x 274.02374pt>
+<./images//e_10_1_1.png, id=247, 192.72pt x 274.02374pt>
 File: ./images//e_10_1_1.png Graphic file (type png)
 <use ./images//e_10_1_1.png>
 Package pdftex.def Info: ./images//e_10_1_1.png  used on input line 9.
@@ -501,8 +549,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--29
 
  []
 
-[48 <./images//e_10_1_0.png> <./images//e_10_1_1.png>] [49]) (./sections/e_10_2/e_10_2.tex
-<./images//e_10_2.png, id=254, 290.08376pt x 271.0125pt>
+[49 <./images//e_10_1_0.png> <./images//e_10_1_1.png>] [50]) (./sections/e_10_2/e_10_2.tex
+<./images//e_10_2.png, id=258, 290.08376pt x 271.0125pt>
 File: ./images//e_10_2.png Graphic file (type png)
 <use ./images//e_10_2.png>
 Package pdftex.def Info: ./images//e_10_2.png  used on input line 7.
@@ -517,8 +565,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--35
 
  []
 
-[50 <./images//e_10_2.png>] [51]) (./sections/e_10_4/e_10_4.tex
-<./images//e_10_4.png, id=263, 290.08376pt x 271.0125pt>
+[51 <./images//e_10_2.png>] [52]) (./sections/e_10_4/e_10_4.tex
+<./images//e_10_4.png, id=266, 290.08376pt x 271.0125pt>
 File: ./images//e_10_4.png Graphic file (type png)
 <use ./images//e_10_4.png>
 Package pdftex.def Info: ./images//e_10_4.png  used on input line 7.
@@ -528,7 +576,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--21
 
  []
 
-[52 <./images//e_10_4.png>]) (./sections/e_10_6/e_10_6.tex
+[53 <./images//e_10_4.png>]) (./sections/e_10_6/e_10_6.tex
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
 
@@ -536,25 +584,145 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 5.
 
 Missing character: There is no ° in font cmr12!
-<./images//e_10_6.png, id=268, 230.8625pt x 186.6975pt>
+<./images//e_10_6.png, id=271, 230.8625pt x 186.6975pt>
 File: ./images//e_10_6.png Graphic file (type png)
 <use ./images//e_10_6.png>
 Package pdftex.def Info: ./images//e_10_6.png  used on input line 8.
 (pdftex.def)             Requested size: 230.86192pt x 186.69704pt.
-[53 <./images//e_10_6.png>] [54]) (./sections/e_10_7/e_10_7.tex [55]) (./sections/e_10_9/e_10_9.tex [56]) (./sections/e_10_12/e_10_12.tex [57]) (./sections/e_10_13/e_10_13.tex [58]) (./sections/e_10_15/e_10_15.tex [59]) (./sections/e_10_16/e_10_16.tex [60]) (./sections/e_10_21/e_10_21.tex [61]) (./sections/e_10_23/e_10_23.tex [62]) (./sections/e_13_2/e_13_2.tex [63]) (./sections/e_13_3/e_13_3.tex [64]) (./sections/e_13_4/e_13_4.tex [65]) (./sections/e_13_5/e_13_5.tex [66]) (./sections/e_13_8/e_13_8.tex [67]) (./sections/e_13_9/e_13_9.tex [68]) (./main.aux) ) 
+[54 <./images//e_10_6.png>] [55]) (./sections/e_10_7/e_10_7.tex
+<./images//e_10_7.png, id=280, 230.8625pt x 296.10625pt>
+File: ./images//e_10_7.png Graphic file (type png)
+<use ./images//e_10_7.png>
+Package pdftex.def Info: ./images//e_10_7.png  used on input line 9.
+(pdftex.def)             Requested size: 69.25928pt x 88.83255pt.
+
+Overfull \hbox (6.13132pt too wide) in paragraph at lines 12--28
+\OT1/cmr/m/n/12 Uguale alla perdita di en-er-gia poten-ziale grav-i-tazionale della sbar-retta ($\OML/cmm/m/it/12 mg\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 x$\OT1/cmr/m/n/12 ) 
+ []
+
+[56 <./images//e_10_7.png>] [57]) (./sections/e_10_9/e_10_9.tex
+<./images//e_10_9_0.png, id=288, 324.21124pt x 202.7575pt>
+File: ./images//e_10_9_0.png Graphic file (type png)
+<use ./images//e_10_9_0.png>
+Package pdftex.def Info: ./images//e_10_9_0.png  used on input line 9.
+(pdftex.def)             Requested size: 97.26411pt x 60.82771pt.
+<./images//e_10_9_1.png, id=289, 253.94875pt x 378.41376pt>
+File: ./images//e_10_9_1.png Graphic file (type png)
+<use ./images//e_10_9_1.png>
+Package pdftex.def Info: ./images//e_10_9_1.png  used on input line 10.
+(pdftex.def)             Requested size: 76.1852pt x 113.525pt.
+ [58 <./images//e_10_9_0.png> <./images//e_10_9_1.png>] [59]) (./sections/e_10_12/e_10_12.tex [60]) (./sections/e_10_13/e_10_13.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--21
+
+ []
+
+[61]) (./sections/e_10_15/e_10_15.tex
+<./images//e_10_15.png, id=306, 374.39874pt x 350.30875pt>
+File: ./images//e_10_15.png Graphic file (type png)
+<use ./images//e_10_15.png>
+Package pdftex.def Info: ./images//e_10_15.png  used on input line 8.
+(pdftex.def)             Requested size: 112.32048pt x 105.09343pt.
+ [62 <./images//e_10_15.png>]) (./sections/e_10_16/e_10_16.tex
+<./images//e_10_16.png, id=311, 328.22626pt x 261.97874pt>
+File: ./images//e_10_16.png Graphic file (type png)
+<use ./images//e_10_16.png>
+Package pdftex.def Info: ./images//e_10_16.png  used on input line 7.
+(pdftex.def)             Requested size: 98.46863pt x 78.59422pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+[63 <./images//e_10_16.png>]) (./sections/e_10_21/e_10_21.tex
+<./images//e_10_21.png, id=316, 736.7525pt x 362.35374pt>
+File: ./images//e_10_21.png Graphic file (type png)
+<use ./images//e_10_21.png>
+Package pdftex.def Info: ./images//e_10_21.png  used on input line 9.
+(pdftex.def)             Requested size: 221.02745pt x 108.70695pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--29
+
+ []
+
+[64 <./images//e_10_21.png>] [65]) (./sections/e_10_23/e_10_23.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+[66] [67]) (./sections/e_13_2/e_13_2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+
+ []
+
+[68] [69]) (./sections/e_13_3/e_13_3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+[70]) (./sections/e_13_4/e_13_4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+[71] [72]) (./sections/e_13_5/e_13_5.tex [73]) (./sections/e_13_8/e_13_8.tex [74]) (./sections/e_13_9/e_13_9.tex [75]) (./main.aux (./sections/formulario/formulario.aux)) ) 
 Here is how much of TeX's memory you used:
- 2845 strings out of 480247
- 51235 string characters out of 5896150
- 329752 words of memory out of 5000000
- 20499 multiletter control sequences out of 15000+600000
+ 2924 strings out of 480247
+ 53884 string characters out of 5896150
+ 330008 words of memory out of 5000000
+ 20562 multiletter control sequences out of 15000+600000
  475889 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,7n,62p,511b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/stefano/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (68 pages, 1129549 bytes).
+ 55i,7n,62p,628b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/stefano/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (75 pages, 1263366 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
+ 419 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 
